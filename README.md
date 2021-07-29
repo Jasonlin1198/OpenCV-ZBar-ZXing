@@ -84,6 +84,19 @@ You are now done setting up OpenCV and ZBar and can begin using these libraries 
 
 Check out the [complete sample project](https://github.com/Jasonlin1198/OpenCV-ZBar-ZXing) that uses OpenCV with ZBar and ZXing recognition libraries. 
 
+OpenCV QR Detection:
+
+https://user-images.githubusercontent.com/22202069/127536264-e2cf3b4a-6da4-4b94-9c03-a6dedb4600c6.mp4
+
+ZBar QR Detection:
+
+https://user-images.githubusercontent.com/22202069/127536388-5f2b7ec2-75a7-4a69-a7d4-32c19c1bb027.mp4
+
+
+ZXing QR Detection:
+
+https://user-images.githubusercontent.com/22202069/127536696-b67e31a7-821d-47ed-b85c-e0623951871d.mp4
+
 
 ## Errors and Issues
 
