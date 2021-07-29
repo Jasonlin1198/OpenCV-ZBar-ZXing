@@ -1,0 +1,1 @@
+C:\Users\jason\source\repos\OpenCV-ZBar-ZXing\OpenCV-ZBar-ZXing\OpenCV-ZBar-ZXing\x64\Release\OpenCV-ZBar-ZXing.vcxproj.CopyComplete
